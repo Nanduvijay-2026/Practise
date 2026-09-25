@@ -9,6 +9,7 @@ public class Sample {
    String name="Nandhini";
    name=name+" Vijayakumar";
    System.out.print(name);
+        System.out.println("demo project for git");
     }
 
 }
